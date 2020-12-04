@@ -6,4 +6,8 @@ El diego mamon
 Cambio 111111
 Branch de felipe
 ¿Qué está pasandooo?
+<<<<<<< HEAD
 Lo que se te antoje
+=======
+Este es otro cambio para causar conflicto
+>>>>>>> Sergio
