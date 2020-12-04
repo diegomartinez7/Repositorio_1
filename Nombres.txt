@@ -1,6 +1,4 @@
 Christopher Diego Martínez Bernal
-<<<<<<< HEAD
 Cristopher Esparza Cuevas
-=======
 Luis Felipe Velázquez López
->>>>>>> cc42802bb23a2ab6a570270f04b9af529b9eb080
+Sergio Ruvalcaba Lozano
